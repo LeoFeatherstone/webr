@@ -66,7 +66,7 @@ const result = await webR.evalR(`
 ...)
 ```
 
-## How do data exist WASM?
+## How do data exit WASM?
 R output is captured in the result variable defined above and then handed back to the DOM via :
 
 ```javascript
